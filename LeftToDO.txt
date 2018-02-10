@@ -1,8 +1,0 @@
-
-- We need to add all the rules first
-- Create a test Procedure
-- "Your testbed will then have one machine operating as a firewall. It will have an “outside”
-connection (eth0) and it will forward datagrams to hosts on its internal hosts on the second
-NIC (eth1)." --- WHAT??
-
--- Test Scripts
